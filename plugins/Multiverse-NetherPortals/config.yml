@@ -1,0 +1,9 @@
+bounceback: true
+teleport_entities: true
+send_no_destination_message: true
+send_disabled_portal_message: true
+worlds:
+  world:
+    portalgoesto:
+      ENDER: survival
+      NETHER: survival

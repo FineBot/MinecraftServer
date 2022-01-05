@@ -1,0 +1,81 @@
+portals:
+  survivalPORTAL:
+    entryfee:
+      amount: 0.0
+    safeteleport: false
+    teleportnonplayers: true
+    handlerscript: ''
+    owner: Jontemaster
+    location: -342.0,35.0,-16.0:-340.0,35.0,-15.0
+    world: world
+    destination: survival
+  toLOBBYfromSURVIVAL:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: true
+    handlerscript: ''
+    owner: Jontemaster
+    location: 39.0,61.0,11.0:42.0,67.0,11.0
+    world: survival
+    destination: world
+  toLOBBYfromSURVIVAL2:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: true
+    handlerscript: ''
+    owner: Jontemaster
+    location: 39.0,62.0,10.0:42.0,66.0,10.0
+    world: survival
+    destination: world
+  fromLOBBYtoSURVIVAL2:
+    entryfee:
+      amount: 0.0
+    safeteleport: false
+    teleportnonplayers: true
+    handlerscript: ''
+    owner: Jontemaster
+    location: -343.0,36.0,-17.0:-340.0,36.0,-15.0
+    world: world
+    destination: survival
+  fromLOBBYtoCREATIVE:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Jontemaster
+    location: -342.0,36.0,1.0:-339.0,36.0,3.0
+    world: world
+    destination: creative
+  fromCREATIVEtoLOBBY:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Jontemaster
+    location: -211.0,62.0,86.0:-208.0,66.0,86.0
+    world: creative
+    destination: world
+  goToView:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Jontemaster
+    location: -363.0,34.0,-9.0:-363.0,38.0,-6.0
+    world: world
+    destination: e:world:-80.39971812292873,81.0,36.934417912672835:24.450129:128.33923
+  goToHome:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Jontemaster
+    location: -77.0,80.0,40.0:-75.0,83.0,42.0
+    world: world
+    destination: e:world:-359.53871321157476,35.0,-6.482039228361035:1.0499653:-90.11493

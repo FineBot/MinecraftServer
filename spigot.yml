@@ -51,10 +51,10 @@ commands:
   tab-complete: 0
   send-namespaced: true
 messages:
-  restart: Server is restarting
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
+  restart: Чето сломалось, сервер перезапускается
+  whitelist: Тебя нет в списке вип персон, ты не можешь сюда зайти.
+  unknown-command: Я хз че за команда, напиши /help
+  server-full: Ноев ковчег переполнен
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
 config-version: 12
